@@ -5,3 +5,5 @@
 .link{
     @apply text-white block p-5 font-bold hover:text-yellow-500
 }
+.mobile-link{
+}
